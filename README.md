@@ -21,7 +21,7 @@ Retrieval-Augmented Generation (RAG) is a prominent and effective method of elev
 
 **QA Pipeline:** https://huggingface.co/deepset/roberta-base-squad2
 
-
+\\
 ## Dataset
 
 This project utilizes the [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) (Stanford Question Answering Dataset) for evaluation, a widely used benchmark for machine reading comprehension tasks.
