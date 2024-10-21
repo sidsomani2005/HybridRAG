@@ -14,6 +14,7 @@ Retrieval-Augmented Generation (RAG) is a prominent and effective method of elev
 
 ## Models:
 **Sentence Transformer:** huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
 **QA Pipeline:** huggingface.co/deepset/roberta-base-squad2
 
 ## Dataset
