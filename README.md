@@ -1,6 +1,7 @@
 # HybridRAG: Overview of Hybrid Retrieval Methodologies in RAG
 
 This paper delves into hybrid retrieval architectures and mechanisms within the domain of Retrieval Augmented Generation. 
+<br></br>
 
 ## Abstract: 
 
